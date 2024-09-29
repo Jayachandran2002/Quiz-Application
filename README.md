@@ -1,7 +1,13 @@
 # Quiz Application (Microservices)
 
 **_Overview_**
-Developed a scalable quiz application using Spring Boot and Microservices architecture, leveraging Eureka Server for service registration and discovery, Feign for inter-service communication, Spring Data JPA and MySQL for data persistence, and Maven for build and deployment.
+Developed a scalable quiz application using Spring Boot and Microservices architecture, leveraging Eureka Server for service registration and discovery, Feign for inter-service communication, Spring Data JPA and MySQL for data persistence, and Maven for build and deployment.         
+
+**_Microservices_**
+- Question-Service
+- Quiz-Service
+- Api-Gateway
+- Service-Registry
 
 **_Features_**
 - Microservices architecture for scalability and flexibility
