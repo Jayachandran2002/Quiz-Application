@@ -22,7 +22,7 @@ Developed a scalable quiz application using Spring Boot and Microservices archit
 - OpenFeign (API Gateway)
 
 **_Setup and Installation_**
-1. Clone the repository: git clone (link unavailable)
+1. Clone the repository: git clone
 2. Install dependencies:
    mvn clean install (for Spring Boot)
 3. Start the application:
