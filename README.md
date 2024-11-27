@@ -35,4 +35,4 @@ Developed a scalable quiz application using Spring Boot and Microservices archit
     mvn spring-boot:run` (for Spring Boot)
 
 **_Contact Me_**
-> [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/jayachandran-s-in).
+> [LinkedIn](https://www.linkedin.com/in/jayachandran-s-in).
